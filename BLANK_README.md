@@ -2,13 +2,6 @@
 *** for setting the foundations of this repo. Major credits to them! -->
 
 <!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
 *** To avoid retyping too much info. Do a search and replace for the following:
 *** full_name, github_username, repo, linkedin_handle, email
 -->
@@ -38,7 +31,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="Readme_images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Readme_Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
