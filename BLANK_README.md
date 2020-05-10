@@ -3,7 +3,7 @@
 
 <!--
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** full_name, github_username, repo, linkedin_handle, email
+*** full_name, github_username, repo, linkedin_handle, email, linkedin_url
 -->
 
 
@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Full Name - [@AdityaSharma6](https://www.linkedin.com/in/adityasharma6/) - email
+Full Name - [@linkedin_handle](linkedin_url) - email
 
 Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
 
@@ -193,6 +193,6 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
-[linkedin-url]: https://www.linkedin.com/in/github_username/
+[linkedin-url]: https://www.linkedin.com/in/linkedin_handle/
 
 [product-screenshot]: Readme_Images/screenshot.png
