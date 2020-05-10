@@ -7,7 +7,11 @@ for the following languages: 										\
 	* C (Coming Soon)												\
 																	\
 If you are using a particualar language, uncomment the section for 	\
-that language in order to use them. 
+that language in order to use them. 								\
+																	\
+To save time, use control-find-replace on the following items		\
+	* SRC/MAIN_DIR 													\
+	* TEST_FILE																															
 
 # GENERAL 
 DOXY = doxygen
