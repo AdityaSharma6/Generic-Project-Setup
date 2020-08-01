@@ -3,7 +3,7 @@
 
 <!--
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** full_name, github_username, repo, linkedin_handle, email, linkedin_url
+*** full_name, github_username, repo, adityasharma6, email, linkedin_url
 -->
 
 
@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
+  <a href="https://github.com/AdityaSharma6/repo">
     <img src="Readme_Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AdityaSharma6/repo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/AdityaSharma6/repo">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://github.com/AdityaSharma6/repo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/AdityaSharma6/repo/issues">Request Feature</a>
   </p>
 </p>
 
@@ -104,7 +104,7 @@ npm install npm@latest -g
  
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/AdityaSharma6/repo.git
 ```
 2. Install NPM packages
 ```sh
@@ -125,7 +125,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/AdityaSharma6/repo/issues) for a list of proposed features (and known issues).
 
 
 
@@ -152,9 +152,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Full Name - [@linkedin_handle](linkedin_url) - email
+Aditya Sharma - [@adityasharma6](linkedin_url) - email
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [https://github.com/AdityaSharma6/repo](https://github.com/AdityaSharma6/repo)
 
 
 
@@ -171,28 +171,28 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/Generic-Project-Setup.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/AdityaSharma6/repo.svg?style=flat-square
 
-[contributors-url]: https://github.com/github_username/Generic-Project-Setup/graphs/contributors
+[contributors-url]: https://github.com/AdityaSharma6/repo/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/github_username/Generic-Project-Setup.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/AdityaSharma6/repo.svg?style=flat-square
 
-[forks-url]: https://github.com/github_username/Generic-Project-Setup/network/members
+[forks-url]: https://github.com/AdityaSharma6/repo/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/github_username/Generic-Project-Setup.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/AdityaSharma6/repo.svg?style=flat-square
 
-[stars-url]: https://github.com/github_username/Generic-Project-Setup/stargazers
+[stars-url]: https://github.com/AdityaSharma6/repo/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/github_username/Generic-Project-Setup.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/AdityaSharma6/repo.svg?style=flat-square
 
-[issues-url]: https://github.com/github_username/repo/issues
+[issues-url]: https://github.com/AdityaSharma6/repo/issues
 
-[license-shield]: https://img.shields.io/github/license/github_username/Generic-Project-Setup.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/AdityaSharma6/repo.svg?style=flat-square
 
-[license-url]: https://github.com/github_username/Generic-Project-Setup/blob/master/LICENSE.txt
+[license-url]: https://github.com/AdityaSharma6/repo/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
-[linkedin-url]: https://www.linkedin.com/in/linkedin_handle/
+[linkedin-url]: https://www.linkedin.com/in/adityasharma6/
 
 [product-screenshot]: Readme_Images/screenshot.png
